@@ -11,6 +11,8 @@ namespace WebApplication1.Controllers
         // GET: Default
         public ActionResult Index()
         {
+        
+        int i =1;
             return View();
         }
     }
